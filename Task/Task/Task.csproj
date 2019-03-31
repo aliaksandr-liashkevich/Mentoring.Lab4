@@ -50,6 +50,7 @@
     <Compile Include="Data\DataSource.cs" />
     <Compile Include="Data\Order.cs" />
     <Compile Include="Data\Product.cs" />
+    <Compile Include="Data\Statistic.cs" />
     <Compile Include="Data\Supplier.cs" />
     <Compile Include="LinqSamples.cs" />
     <Compile Include="ObjectDumper.cs" />

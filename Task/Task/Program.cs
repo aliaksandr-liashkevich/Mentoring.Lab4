@@ -30,7 +30,7 @@ namespace SampleQueries
 						
 			Application.EnableVisualStyles();
 				
-			using (SampleForm form = new SampleForm("HomeWork - Mihail Romanov", harnesses))
+			using (SampleForm form = new SampleForm("HomeWork", harnesses))
 			{
 				form.ShowDialog();
 			}
